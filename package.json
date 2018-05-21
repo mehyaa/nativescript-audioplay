@@ -1,0 +1,122 @@
+{
+  "name": "nativescript-audioplay",
+  "version": "1.0.0",
+  "description": "NativeScript plugin to play audio.",
+  "main": "audio",
+  "typings": "index.d.ts",
+  "nativescript": {
+    "platforms": {
+      "android": "4.0.0",
+      "ios": "4.0.0"
+    }
+  },
+  "scripts": {
+    "tsc": "tsc -skipLibCheck",
+    "build": "npm i && npm run tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehyaa/nativescript-audioplay.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "TypeScript",
+    "Android",
+    "iOS",
+    "music",
+    "audio"
+  ],
+  "author": {
+    "name": "mehyaa",
+    "url": "https://github.com/mehyaa",
+    "email": "mehyaa@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Brad Martin",
+      "url": "https://github.com/bradmartin",
+      "email": "bmartin@nstudio.io"
+    },
+    {
+      "name": "Nathan Walker",
+      "email": "walkerrunpdx@gmail.com",
+      "url": "https://github.com/NathanWalker"
+    },
+    {
+      "name": "Jibon Lawrence Costa",
+      "url": "https://github.com/jibon57"
+    },
+    {
+      "name": "Dylan Ryan",
+      "url": "https://github.com/dylanryan"
+    },
+    {
+      "name": "Alexander Vakrilov",
+      "url": "https://github.com/vakrilov"
+    },
+    {
+      "name": "GT Nunes",
+      "url": "https://github.com/gtnunes1956"
+    },
+    {
+      "name": "Andrea Sotto",
+      "url": "https://github.com/andreasotto"
+    },
+    {
+      "name": "August Heegaard",
+      "url": "https://github.com/agisboye"
+    },
+    {
+      "name": "Akmal Sultonov",
+      "url": "https://github.com/asultonov"
+    },
+    {
+      "name": "Amit Gharat",
+      "url": "https://github.com/codef0rmer"
+    },
+    {
+      "name": "Jen Looper",
+      "url": "https://github.com/jlooper"
+    },
+    {
+      "name": "Stanimira Vlaeva",
+      "url": "https://github.com/sis0k0"
+    },
+    {
+      "name": "Osei Fortune",
+      "url": "https://github.com/triniwiz"
+    },
+    {
+      "name": "RedPandaTronics",
+      "url": "https://github.com/redpandatronicsuk"
+    },
+    {
+      "name": "Chris Flannagan",
+      "url": "https://github.com/ChrisFlannagan"
+    },
+    {
+      "name": "mfrro",
+      "url": "https://github.com/mfrro"
+    },
+    {
+      "name": "Richard Smith",
+      "url": "https://github.com/DickSmith"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/mehyaa/nativescript-audioplay/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mehyaa/nativescript-audioplay",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "tns-core-modules": "^4.0.0"
+  },
+  "devDependencies": {
+    "tns-core-modules": "^4.0.0",
+    "tns-platform-declarations": "^4.0.0",
+    "typescript": "~2.8.1"
+  }
+}

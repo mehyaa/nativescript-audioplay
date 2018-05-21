@@ -1,0 +1,12 @@
+.vs/
+.vscode/
+.idea/
+.DS_Store
+.npmrc
+
+node_modules/
+
+*.js
+
+package-lock.json
+yarn.lock
