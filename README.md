@@ -128,9 +128,7 @@ player
 
 ## API
 
-### Player
-
-#### TNSPlayer Methods
+### TNSPlayer Methods
 
 | Method                                                                 | Description                                                  |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -147,7 +145,7 @@ player
 | _playAtTime(time: number)_: void - **_iOS Only_**                      | Play audio track at specific time of duration.               |
 | _changePlayerSpeed(speed: number)_: void - **On Android Only API 23+** | Change the playback speed of the media player.               |
 
-#### TNSPlayer Instance Properties
+### TNSPlayer Instance Properties
 
 | Property                | Description                                                |
 | ----------------------- | ---------------------------------------------------------- |
