@@ -3,8 +3,10 @@
 </a>
 
 <h4 align="center">NativeScript plugin to play audio files for Android and iOS.</h4>
-<h4 align="center">Ported from https://github.com/nstudio/nativescript-audio (v4.3.5)</h4>
-<h4 align="center">To support only playing audio files without recording</h4>
+
+<p align="center">
+  Ported from https://github.com/nstudio/nativescript-audio (v4.3.5). It is added to require less permissions for audio playback only.
+</p>
 
 <p align="center">
     <a href="https://www.npmjs.com/package/nativescript-audioplay">
