@@ -5,7 +5,7 @@
 <h4 align="center">NativeScript plugin to play audio files for Android and iOS.</h4>
 
 <p align="center">
-  Ported from https://github.com/nstudio/nativescript-audio (v4.3.5). It is added to require less permissions for audio playback only.
+  Ported from <a href="https://github.com/nstudio/nativescript-audio">nativescript-audio</a> (v4.3.5) to require lesser permissions for audio playback only. All credits go to <a href="https://github.com/nstudio/nativescript-audio/graphs/contributors">original project contributors</a>
 </p>
 
 <p align="center">
@@ -158,3 +158,7 @@ player
 ### License
 
 [MIT](/LICENSE)
+
+### Credits
+
+<a href="https://github.com/nstudio/nativescript-audio/graphs/contributors">nativescript-audio</a>
