@@ -15,17 +15,8 @@
     <a href="https://www.npmjs.com/package/nativescript-audioplay">
         <img src="https://img.shields.io/npm/dt/nativescript-audioplay.svg?label=npm%20downloads" alt="npm-downloads">
     </a>
-    <a href="https://github.com/nstudio/nativescript-audioplay/stargazers">
-        <img src="https://img.shields.io/github/stars/nstudio/nativescript-audioplay.svg" alt="stars">
-    </a>
-     <a href="https://github.com/nstudio/nativescript-audioplay/network">
-        <img src="https://img.shields.io/github/forks/nstudio/nativescript-audioplay.svg" alt="forks">
-    </a>
-    <a href="https://github.com/nstudio/nativescript-audioplay/blob/master/src/LICENSE.md">
-        <img src="https://img.shields.io/github/license/nstudio/nativescript-audioplay.svg" alt="license">
-    </a>
-    <a href="https://paypal.me/mehyaa">
-        <img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="donate">
+    <a href="https://github.com/mehyaa/nativescript-audioplay/blob/master/LICENSE.md">
+        <img src="https://img.shields.io/github/license/mehyaa/nativescript-audioplay.svg" alt="license">
     </a>
 </p>
 
@@ -157,7 +148,7 @@ player
 
 ### License
 
-[MIT](/LICENSE)
+[MIT](/LICENSE.md)
 
 ### Credits
 
